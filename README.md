@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Dating App](https://github.com/Adityaat2810/DateNow)
 
-- 🌱 I’m currently learning **Android Development ,Javascript , Nodejs ,ExpressJs , MongoDB**
+- 🌱 I’m currently learning **Android Development ,Javascript , Nodejs ,ExpressJs , MongoDB, MySql **
 
 - 💬 Ask me about **android , backend**
 
