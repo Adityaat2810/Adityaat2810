@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaat2810" alt="adityaat2810" /></a> </p>
 
-- 🔭 I’m currently working on [Discord ](https://github.com/Adityaat2810/DateNow)
+- 🔭 I’m currently working on [Discord ](https://github.com/Adityaat2810/discord)
 
 - 🌱 I’m currently learning **Android Development ,Javascript , Nodejs ,ExpressJs , MongoDB, MySql **
 
