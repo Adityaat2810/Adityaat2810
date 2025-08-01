@@ -12,29 +12,12 @@
 </div>
 
 ## 🚀 About Me
+I’m a passionate **Software Developer** pursuing **B.Tech in Electronics and Communication Engineering** at **IIIT Ranchi** (CGPA: 8.2). With hands-on experience in **full-stack development**, **microservices architecture**, and **AI integration**, I love building scalable solutions that solve real-world problems.
 
-I'm a passionate **Software Developer** pursuing **B.Tech in Electronics and Communication Engineering** at **IIIT Ranchi** (CGPA: 8.2). With hands-on experience in **full-stack development**, **microservices architecture**, and **AI integration**, I love building scalable solutions that solve real-world problems.
-
-Currently working as a **Software Developer Intern** at **Saras Finance**, where I'm implementing server-driven UI frameworks and developing microservices using cutting-edge technologies.
-
----
-
-## 💼 Professional Experience
-
-### 🔹 Software Developer Intern | Saras Finance *(Dec 2024 - July 2025)*
-- 🌟 Implemented flexible **server-driven UI framework** with JSON configs for live updates
-- 🤖 Designed UIs for **AI modules** including Litigation System, FileBot, ChatBot, and Workflow Executor
-- 🐳 Created reusable **Python microservice template** using gRPC and Docker
-- ⚙️ Automated recurring tasks via **cron services** with PostgreSQL-Redis integration
-- 🔧 Optimized inter-service communication using **Envoy Proxy** for 5+ microservices
-
-### 🔹 Software Engineering Intern | Rare Labs *(Sept 2024 - Dec 2024)*
-- 📱 Engineered responsive applications using **Next.js**, **TypeScript**, and **Tailwind CSS**
-- 📊 Built comprehensive **marketing analytics system** with Facebook Pixel
-- 🔐 Designed secure **authentication system** with email/mobile verification and OTP
-- 📝 Developed **AI-powered document editor** with real-time collaboration using Firebase
+Previously worked as a **Software Developer Intern** at **Saras Finance**, where I implemented server-driven UI frameworks and developed microservices using cutting-edge technologies.
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -72,7 +55,7 @@ Currently working as a **Software Developer Intern** at **Saras Finance**, where
 
 ## 📊 GitHub Statistics
 <div align="center">
-<div style="display:flex; gap:10px; justify-content:center;">
+<div style="display:flex; justify-content:center;">
   <!-- GitHub Stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=Adityaat2810&show_icons=true&theme=tokyonight&hide_border=true"
