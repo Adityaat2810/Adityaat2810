@@ -1,24 +1,134 @@
-# 💫 About Me:
-👋 Hi there! I'm currently building Deploy Nest, a platform where you can seamlessly deploy both your front-end and back-end applications.
-💡 Passionate about crafting full-stack solutions, I specialize in front-end, back-end, and mobile app development (Kotlin). Feel free to ask me anything in these areas!
+<div align="center">
+  
+# 👋 Hi, I'm Aditya Kumar Saini
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-kumar-saini-524ba3256/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AdityaSaini_as) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&width=435&lines=Software+Developer+%7C+Final+Year+Student;Full-Stack+Developer;Microservices+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Adityaat2810&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adityaat2810&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaat2810&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar-saini-524ba3256)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Adityaat2810)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasainics10@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white)](tel:6395753087)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Adityaat2810&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Adityaat2810&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🚀 About Me
+
+I'm a passionate **Software Developer** pursuing **B.Tech in Electronics and Communication Engineering** at **IIIT Ranchi** (CGPA: 8.2). With hands-on experience in **full-stack development**, **microservices architecture**, and **AI integration**, I love building scalable solutions that solve real-world problems.
+
+Currently working as a **Software Developer Intern** at **Saras Finance**, where I'm implementing server-driven UI frameworks and developing microservices using cutting-edge technologies.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Adityaat2810&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 Professional Experience
+
+### 🔹 Software Developer Intern | Saras Finance *(Dec 2024 - July 2025)*
+- 🌟 Implemented flexible **server-driven UI framework** with JSON configs for live updates
+- 🤖 Designed UIs for **AI modules** including Litigation System, FileBot, ChatBot, and Workflow Executor
+- 🐳 Created reusable **Python microservice template** using gRPC and Docker
+- ⚙️ Automated recurring tasks via **cron services** with PostgreSQL-Redis integration
+- 🔧 Optimized inter-service communication using **Envoy Proxy** for 5+ microservices
+
+### 🔹 Software Engineering Intern | Rare Labs *(Sept 2024 - Dec 2024)*
+- 📱 Engineered responsive applications using **Next.js**, **TypeScript**, and **Tailwind CSS**
+- 📊 Built comprehensive **marketing analytics system** with Facebook Pixel
+- 🔐 Designed secure **authentication system** with email/mobile verification and OTP
+- 📝 Developed **AI-powered document editor** with real-time collaboration using Firebase
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white)
+
+### Frontend & Mobile
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Backend & APIs
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white)
+
+### Databases & DevOps
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+<div align="center">
+<div style="display:flex; gap:10px; justify-content:center;">
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Adityaat2810&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Aditya's GitHub stats"
+    style="height:150px; width:auto;" />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaat2810&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    style="height:150px; width:auto;" />
+</div>
+
+</div>
+
+
+---
+
+
+## 🎯 Current Focus
+
+- 🔍 **Exploring**: Advanced microservices patterns and distributed systems
+- 📚 **Learning**: Cloud-native technologies and DevOps practices
+- 🚀 **Building**: Scalable AI-powered applications
+- 💼 **Seeking**: Full-time Software Developer opportunities for 2025
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  
+![Aditya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityaat2810&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on innovative projects and discuss technology! Whether you're looking for a passionate developer, want to share ideas, or just want to chat about tech, feel free to reach out.
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar-saini-524ba3256)
+[![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasainics10@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adityaat2810)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Adityaat2810&color=blueviolet&style=flat-square&label=Profile+Views)
+
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+
+</div>
