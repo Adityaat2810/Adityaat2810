@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar-saini-524ba3256)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Adityaat2810)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasainics10@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white)](tel:6395753087)
 
 </div>
 
